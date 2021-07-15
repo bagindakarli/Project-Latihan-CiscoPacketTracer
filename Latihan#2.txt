@@ -1,0 +1,38 @@
+SOAL 1
+sebuah instansi terdiri dari :
+departemen keuangan,
+departemen administrasi,
+departemen personalia,
+departemen teknik.
+
+akan dibangun jaringan (LAN), dengan menggunakan topologi STAR, admin menentukan IP yang digunakan adalah 220.55.10.x
+menggunakan 1 buah router
+
+SOAL 2
+
+SOAL 3
+sebuah instansi terdiri dari :
+departemen keuangan,
+departemen kesiswaan,
+departemen tata-usaha,
+departemen sarpra
+departemen kepegawaian
+departemen hubin,
+departemen promosi
+departemen unit-produksi,
+departemen koperasi
+
+akan dibangun jaringan (LAN), dengan menggunakan topologi STAR, admin menentukan IP yang digunakan adalah 220.55.10.x /28
+menggunakan 1 buah router
+
+sOAL 4
+telkom membangun beberapa hotspot di tempat umum. tiap hotspot terdiri dari 10-12 client. jika di-setting menggunakan class C dengan IP 220.55.10.x, tentukan pembagian IP-nya!
+
+sOAL 5
+alfa = 50 pc
+bravo = 14 pc
+charlie = 10 pc
+delta = 28 pc
+echo = 7 pc
+foxtrot = 12 pc
+tentukan IP-nya menggunakan 220.55.10.x
